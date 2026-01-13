@@ -1,0 +1,34 @@
+{
+  "name": "securepixel-js",
+  "version": "1.0.0",
+  "description": "Lightweight JavaScript SDK for client-side image steganography & AES-GCM encryption. Zero dependencies.",
+  "main": "sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KDippan/securepixel-js.git"
+  },
+  "keywords": [
+    "securepixel",
+    "steganography",
+    "encryption",
+    "aes-gcm",
+    "web-crypto",
+    "privacy",
+    "security",
+    "client-side"
+  ],
+  "author": "Dippan Bhusal <dippan.connect@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KDippan/securepixel-js/issues"
+  },
+  "homepage": "https://securepixel.dippanbhusal.tech",
+  "files": [
+    "sdk.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
